@@ -213,7 +213,7 @@ function draw() {
 	fill(233, 152, 22);
 	rotate(mAngle);
 	ellipse(40,0,12,12);
-	mAngle = mAngle + .10/2;
+	mAngle = mAngle + .25/2;
 
   // Venus
 	fill(225,100, 51);
