@@ -41,8 +41,8 @@ let fontT;
 
 function preload(){
   imgBG =loadImage('Solar system 2.png');
-  fontN =loadFont("Nunito/Nunito-VariableFont_wght.ttf");
-  fontT =loadFont("Tinos/Tinos-Regular.ttf")
+  fontN =loadFont("Nunito-VariableFont_wght.ttf");
+  fontT =loadFont("Tinos-Regular.ttf")
   milky = loadImage("Galaxy.jpg");
   LoI = loadImage("Locate icon.png");
   solarI =loadImage("Solar system icon.png");
